@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @YuktaShakya
 - 👀 I’m interested in software devlopment
-- 🌱 I’m currently learning backen d technologies
+- 🌱 I’m currently learning backend technologies
+- I have complete frontend Devlopment in which I have studied -HTML , CSS, JAVA SCRIPT,AJAX,XML.BOOTSTARP,JQuery
+- I consider java as my primary programming language
 - 
 
 <!---
